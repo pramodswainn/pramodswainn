@@ -4,9 +4,9 @@ I am Pramod Kumar Swain, a Software Engineer having 10+ years of experience work
 - Checkout my GitHub repositories on  on different path planning algorithms for L5 Autonomous vehicles.
 - Follow me on LinkedIn .
 
-## GitHub Stats                                                                                                                    ## Tech Skills
+## GitHub Stats                                                                                                                                                   ## Tech Skills
 
-![Pramod Kumar Swain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodswainn&show_icons=true)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodswainn&layout=compact)
+![Pramod Kumar Swain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodswainn&show_icons=true)                                            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodswainn)
 
 ## Contact Me
 - 📧 Email: [pramodswainn](mailto:pramodswainn@gmail.com)
