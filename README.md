@@ -9,11 +9,11 @@ I am Pramod Kumar Swain, a Software Engineer having 10+ years of experience work
 
 ![Pramod Kumar Swain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodswainn&show_icons=true)
 
-## Most Used Languages
+## Tech Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodswainn&layout=compact)
 
 ## Contact Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/pramod-swain/)
+- 📧 Email: [pramodswainn](mailto:pramodswainn@gmail.com)
+- 💼 LinkedIn: [pramodswainn](https://www.linkedin.com/in/pramod-swain/)
