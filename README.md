@@ -10,4 +10,4 @@ I am Pramod Kumar Swain, a Software Engineer having 10+ years of experience work
 
 ## Contact Me
 - 📧 Email: [mail](pramodswainn@gmail.com)
-- 💼 LinkedIn: [pramod-swain/](https://www.linkedin.com/in/pramod-swain/)
+- 💼 LinkedIn: [pramod-swain](https://www.linkedin.com/in/pramod-swain/)
