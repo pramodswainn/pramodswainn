@@ -10,13 +10,14 @@ My interests range from the latest C++ development, ML, IOT, and Software Design
 
 - Check out my GitHub repositories for different path-planning algorithms for L5 Autonomous vehicles.
 - Follow me on LinkedIn.
+  ## Contact Me
+
+- 📧 Email: [pramodswainn@gmail.com](mailto:pramodswainn@gmail.com)
+- 💼 LinkedIn: [in/pramod-swain](https://www.linkedin.com/in/pramod-swain/)
 
 ## GitHub Stats                                                                                                                                                   ## Tech Skills
 
 ![Pramod Kumar Swain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodswainn&show_icons=true)                                            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodswainn&layout=compact)
 
 
-## Contact Me
 
-- 📧 Email: [pramodswainn@gmail.com](mailto:pramodswainn@gmail.com)
-- 💼 LinkedIn: [in/pramod-swain](https://www.linkedin.com/in/pramod-swain/)
