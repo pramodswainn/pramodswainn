@@ -6,7 +6,7 @@ I am Pramod Kumar Swain, a Software Engineer having 10+ years of experience work
 
 ## GitHub Stats                                                                                                                                                   ## Tech Skills
 
-![Pramod Kumar Swain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodswainn&show_icons=true)                                            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodswainn)
+![Pramod Kumar Swain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodswainn&show_icons=true)                                            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodswainn&layout=compact)
 
 ## Contact Me
 - 📧 Email: [pramodswainn](mailto:pramodswainn@gmail.com)
