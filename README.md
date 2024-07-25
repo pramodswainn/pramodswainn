@@ -3,7 +3,7 @@
 - I am Pramod Kumar Swain, a Software Engineer having 10+ years of experience working in various domains like Avionics, Automotive, and Telecom.
 - I'm a senior C++ developer and currently working at Oracle in India as SMTS.
 - I have experience in C++ Programming (C++11, C++14, C++17), Data Structure, Algorithm, STL, CAN, TCP/IP, Multi-Threading, and System Design.
-- I have worked in the automotive domain[Autonomous  Driving system]
+- I have worked in the automotive domain[ADAS, ADS]
 - I love reading journals and conferences like CPPCon.
 
 My interests range from the latest C++ development, ML, IOT, and Software Design, and I'm always eager to explore new technological horizons.
